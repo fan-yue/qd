@@ -1,0 +1,153 @@
+body{
+	margin: 0px;
+}
+.a{
+	border-top: 3px solid #50A8FF;
+    border-bottom: 1px solid #DDD;
+    background: #FFF;
+    height: 58px;
+}
+.a1{
+	width: 1180px;
+    margin: auto;
+}
+.a2{
+	width: 190px;
+    height: 28px;
+    margin-top: 14px;
+}
+.b{
+	padding: 186px 0 130px;
+	width: 1180px;
+    margin: auto;
+}
+.b1{
+	margin-top: 40px;
+}
+.b2{
+	float: right;
+    width: 400px;
+    height: 420px;
+}
+.b3{
+	width: 399px;
+	height: 420px;
+    min-height: 420px;
+    background: white;
+    border: 1px solid #E6E6E6;
+}
+.b4{
+	height: 46px;
+    border-bottom: 1px solid #E6E6E6;
+}
+.b5{
+	width: 133px;
+    height: 45px;
+    float: left;
+    font-size: 16px;
+    line-height: 48px;
+    text-align: center;
+    cursor: pointer;
+    color: #1A1A1A;
+    border-bottom: 2px solid #BF2C24;
+}
+.b6{
+    width: 133px;
+    height: 45px;
+    float: left;
+    font-size: 16px;
+    line-height: 48px;
+    text-align: center;
+    cursor: pointer;
+    color: #A6A6A6;
+}
+.c{
+	width: 320px;
+	height: 350px;
+	padding: 40px 40px 25px;
+}
+.c2{
+	width: 280px;
+    float: left;
+    height: 25px;
+    padding: 7px 0 7px 36px;
+}
+.c3{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.c4{
+	position: relative;
+	top: 33px;
+	left: 10px;
+}
+.c5{
+	position: relative;
+	top: 95px;
+	left: -13px;
+}
+.d{
+	clear: both;
+	width: 240px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.d1{
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
+.d1:hover{
+	color: #ed4269;
+}
+.d2{
+	margin-top: 24px;
+	margin-bottom: 24px;
+	clear: both;
+    height: 40px;
+    line-height: 38px;
+    width: 320px;
+    border-color: #BF2C24;
+    background: #BF2C24;
+    color: white;
+    text-align: center;
+}
+.d3{
+	text-align: center;
+	width: 320px;
+}
+.d4{
+	color: #666;
+	font-size: 12px;
+}
+.d5{
+	margin-top: 24px;
+	width: 320px;
+	text-align: center;
+}
+.d6{
+	margin-left: 7px;
+}
+.e{
+	border-top: 1px solid #DDD;
+    height: 55px;
+    font: 12px/55px "Microsoft YaHei";
+    text-align: center;
+    color: #999;
+    background: #F9F9F9;
+}
+.e1{
+	width: 1180px;
+    margin: auto;
+}
+.e2{
+	margin-top: 3px;
+}
+.e2 a{
+	color: #999;
+	text-decoration: none;
+}
+.e2 a:hover{
+	color: #00CCFF;
+}
